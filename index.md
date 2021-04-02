@@ -17,5 +17,5 @@ My current programming language knowledge:
 
 This is the link to my Linkedin!
 
-www.linkedin.com/in/grady-gabriel-6ab442191
+www.linkedin.com/in/grady-gabriel-6ab442191 - automatic!
 
