@@ -16,6 +16,6 @@ My current programming language knowledge:
  - React
 
 This is the link to my Linkedin!
-
-www.linkedin.com/in/grady-gabriel-6ab442191 - automatic!
+    
+(http://www.linkedin.com/in/grady-gabriel-6ab442191) 
 
