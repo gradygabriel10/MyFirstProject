@@ -15,7 +15,7 @@ My current programming language knowledge:
  - R
  - React
 
-This is the link to my Linkedin!
+This is the link to my **Linkedin**!
     
 (http://www.linkedin.com/in/grady-gabriel-6ab442191) 
 
